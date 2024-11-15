@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo5-azure-functions", "demo5-azure-functions\demo5-azure-functions.csproj", "{5A4A7187-5B8F-4FC2-BEFA-3EFC87C52950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{5AD53192-5B00-4C1B-956D-2A62929B8CB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5A4A7187-5B8F-4FC2-BEFA-3EFC87C52950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A4A7187-5B8F-4FC2-BEFA-3EFC87C52950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A4A7187-5B8F-4FC2-BEFA-3EFC87C52950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD53192-5B00-4C1B-956D-2A62929B8CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD53192-5B00-4C1B-956D-2A62929B8CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD53192-5B00-4C1B-956D-2A62929B8CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD53192-5B00-4C1B-956D-2A62929B8CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
